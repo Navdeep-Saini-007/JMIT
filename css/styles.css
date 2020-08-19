@@ -1,0 +1,46 @@
+#time-table{
+  text-align: center;
+}
+
+.title{
+  margin:30px;
+  text-align: center;
+}
+
+img{
+  border:5px solid black ;
+  width:1400 ;
+  height:700 ;
+}
+
+#lecture-links{
+  text-align: center;
+}
+
+#lab-links{
+  text-align: center;
+}
+
+#add-links{
+  text-align: center;
+}
+
+.linkbox{
+  border:2px solid black;
+  margin: 30px;
+  padding:20px;
+  background-color:#a6e3e9;
+}
+
+body{
+  background-color:#e3fdfd;
+}
+
+#top{
+  text-align: center;
+  margin:30px;
+}
+
+#creds{
+  text-align: right;
+}
